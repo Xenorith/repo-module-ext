@@ -1,0 +1,8 @@
+pathsToCopy:
+  - ext/client/target/ext-client-${VERSION}.jar
+  - ext/server/target/ext-server-${VERSION}.jar
+  - bin/cli.sh
+  - bin/cmd
+  - bin/cmdExt
+  - conf
+  - LICENSE
