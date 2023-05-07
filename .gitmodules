@@ -1,4 +1,4 @@
 [submodule "submodules/repo-module-base"]
 	path = submodules/repo-module-base
 	url = https://github.com/Xenorith/repo-module-base
-        branch = master
+        branch = release-100
