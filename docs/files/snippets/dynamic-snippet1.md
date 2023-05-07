@@ -1,0 +1,1 @@
+../../../submodules/repo-module-base/docs/files/snippets/dynamic-snippet1.md
