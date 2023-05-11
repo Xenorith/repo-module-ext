@@ -37,6 +37,7 @@
 
   <modules>
     <module>base</module> <!-- Comment this line to utilize jar dependencies for base modules derived from repo-module-base -->
+    <module>common</module>
     <module>ext</module>
   </modules>
 

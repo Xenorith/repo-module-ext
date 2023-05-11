@@ -5,13 +5,12 @@
     <artifactId>repo-module-ext</artifactId>
     <version>1.0.0</version>
   </parent>
-  <artifactId>ext</artifactId>
+  <artifactId>common</artifactId>
   <packaging>pom</packaging>
-  <name>Ext</name>
+  <name>Common</name>
 
   <modules>
-    <module>client</module>
-    <module>server</module>
+    <module>proto</module>
   </modules>
 
   <properties>
